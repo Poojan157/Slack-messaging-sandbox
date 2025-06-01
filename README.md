@@ -41,7 +41,7 @@ Perfect for building Slack bots, automation tools, notification systems, and int
 - [🔧 Advanced Configuration](#-advanced-configuration)
 - [🐛 Troubleshooting](#-troubleshooting)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+
 
 ---
 
@@ -273,7 +273,7 @@ Ideal for development with full local control and debugging capabilities.
 
 ```bash
 # Clone and setup
-git clone https://github.com/your-username/Slack-Messaging-Sandbox.git
+git clone https://github.com/Poojan157/Slack-Messaging-Sandbox.git
 cd Slack-Messaging-Sandbox
 npm install
 
